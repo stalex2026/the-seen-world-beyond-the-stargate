@@ -1,6 +1,6 @@
 # The Seen World Beyond The Stargate
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22991576.svg)](https://doi.org/10.5281/zenodo.22991576)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > The central visual pathway — from the Stargate to the seer.
@@ -17,7 +17,7 @@ The standalone companion to Vision: From Photon to Mind, this essay picks up the
 ## How to cite
 Cite the concept DOI (always resolves to the latest version):
 
-> Stan, A. C. (2026). *The Seen World Beyond The Stargate* (Version 1.0) [Essay]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Stan, A. C. (2026). *The Seen World Beyond The Stargate* (Version 1.0) [Essay]. Zenodo. https://doi.org/10.5281/zenodo.22991576
 
 ---
 *Part 2 of the Vision set. Companion to [Vision: From Photon to Mind](https://doi.org/10.5281/zenodo.22978141).*
