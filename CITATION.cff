@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you refer to this essay, please cite it using the metadata below — preferably via its DOI."
+title: "The Seen World Beyond The Stargate"
+abstract: "A walk up the central visual pathway — optic nerve and chiasm, LGN, V1, and the dorsal and ventral streams — used as the scaffold for an ascent from vision to seeing to the authored world and, finally, the seer, closing at the hard problem of consciousness."
+authors:
+  - family-names: "Stan"
+    given-names: "Alexandru C."
+    orcid: "https://orcid.org/0000-0002-7463-0393"
+version: "1.0.0"
+date-released: "2026-09-27"
+license: CC-BY-4.0
+url: "https://github.com/stalex2026/the-seen-world-beyond-the-stargate"
+repository-code: "https://github.com/stalex2026/the-seen-world-beyond-the-stargate"
+keywords:
+  - "visual neuroscience"
+  - "central visual pathway"
+  - "predictive coding"
+  - "dorsal and ventral streams"
+  - "hard problem of consciousness"
+preferred-citation:
+  type: article
+  title: "The Seen World Beyond The Stargate"
+  authors:
+    - family-names: "Stan"
+      given-names: "Alexandru C."
+      orcid: "https://orcid.org/0000-0002-7463-0393"
+  year: 2026
+  doi: "10.5281/zenodo.XXXXXXX"
+  url: "https://doi.org/10.5281/zenodo.XXXXXXX"
